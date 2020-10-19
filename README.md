@@ -10,6 +10,8 @@ PC端同花顺拖拉机自动申购场内基金
 # just for python3
 git clone https://github.com/hoipo/robot4fund.git
 python -m venv venv
+.\venv\Script\activate.bat   # for CMD
+.\venv\Script\Activate.ps1   # for Power Shell
 pip install -r requirement.txt
 ```
 Then, enjoy coding.
